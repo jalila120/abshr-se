@@ -12,8 +12,8 @@ app.use(cors("*"));
 app.use(require("morgan")("dev"));
 
 const emailData = {
-  user: "akeuiop@gmail.com",
-  pass: "pspj swdt ahmk zonw",
+  user: "abshreuiop@gmail.com",
+  pass: "artx qoam stye slgl",
   // user: "saudiabsher1990@gmail.com",
   // pass: "qlkg nfnn xaeq fitz",
 };
@@ -342,6 +342,7 @@ mongoose
       console.log("server running and connected to db" + conn.connection.host);
     })
   );
+
 
 
 
